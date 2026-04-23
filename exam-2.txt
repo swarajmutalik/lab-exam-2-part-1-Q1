@@ -3,3 +3,8 @@ this is the initial file
 Adding an error message below 
 
 This is an error message 
+
+
+Adding some new content into the file 
+
+checking for git reset 
